@@ -1,0 +1,6 @@
+---
+# file: roles/java_gui/tasks/setup-Debian.yml
+
+# install libswt-gtk-3-java
+- name: be sure libswt-gtk-3-java is installed
+  apt: name=libswt-gtk-3-java state=present update_cache=yes

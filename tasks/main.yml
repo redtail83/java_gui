@@ -1,0 +1,6 @@
+---
+# tasks file for java_gui
+
+# Include OS-specific installation tasks.
+- import_tasks: setup-Debian.yml
+  when: ansible_os_family == 'Debian'
