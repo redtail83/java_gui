@@ -62,4 +62,4 @@ dependencies:
   - src: redtail83.x11
     version: v1.0.0
   - src: redtail83.oraclejdk8
-    version: v1.0.0
+    version: v1.0.1
