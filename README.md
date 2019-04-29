@@ -20,7 +20,7 @@ Dependencies
 This role depends on:
 
 * redtail83.x11
-* redtail83.oraclejdk8
+* redtail83.adoptopenjdk8_hotspot
 
 Example Playbook
 ----------------

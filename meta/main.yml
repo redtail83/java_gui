@@ -61,5 +61,5 @@ dependencies:
   # if you add dependencies to this list.
   - src: redtail83.x11
     version: v1.0.0
-  - src: redtail83.oraclejdk8
+  - src: redtail83.adoptopenjdk8_hotspot
     version: v1.0.1
